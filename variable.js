@@ -1,5 +1,6 @@
 // numeric variable
 var price = 50;
+price = 50*2; //eki variable update korte caile notun kore abar variable call korte hobe na, ager variable likhei tate update korte hobe. 
 var age = 28;
 var temp =39;
 var weight = 126;
