@@ -28,7 +28,7 @@ var subscribed = false;
 
 // ***--- how to write a string variable ---***
 
-// boolean variable likhte 5 ta jinish lage:
+// string variable likhte 6 ta jinish lage:
 // 1. variable ar short form "var" likhte hoy.
 // 2. variable ar ekta nam dite hoy. like, "price/age/name/address/(any kind of name)/weight/a/b/x/y" etc.
 // 3. erpor equal "=" operator dite hoy.
