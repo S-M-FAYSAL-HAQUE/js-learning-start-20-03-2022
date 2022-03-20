@@ -10,3 +10,11 @@ var offerPrice = (eggPrice * eggQuantity + milkPrice - milkPrice) / 2;
 console.log("Total Price:", totalPrice);
 console.log("Lost Price:", lostMilkPrice);
 console.log("Offer Price:", offerPrice);
+
+// modulus in js
+var firstPersonHave = 39;
+var secondPersonHave = 7;
+var remaining = firstPersonHave % secondPersonHave;
+firstPersonHave %= secondPersonHave; // firstPersonHave = firstPersonHave % secondPersonHave;
+console.log(firstPersonHave);
+console.log(remaining);
