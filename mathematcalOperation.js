@@ -1,4 +1,4 @@
-// Division, Multiplication, Addition and Subtraction. in js 
+// Division, Multiplication, Addition and Subtraction in js 
 
 var eggPrice = 10;
 var eggQuantity = 12;
